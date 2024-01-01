@@ -1,0 +1,28 @@
+{
+  "name": "my-blog",
+  "version": "1.0.0",
+  "description": "my blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/abraincrush/blog.git"
+  },
+  "keywords": [
+    "Zjqzh-0419"
+  ],
+  "author": "Chen jiongfei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abraincrush/blog/issues"
+  },
+  "homepage": "https://github.com/abraincrush/blog#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.10"
+  }
+}
+
